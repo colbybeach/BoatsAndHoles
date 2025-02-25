@@ -1,0 +1,12 @@
+
+
+Tabs:
+1. Home 
+- dashboard with latest updates like last round scores, a snippet of the standings (maybe your teams standings and one above and one below), your next match, etc. 
+2. Stats
+-- Including standings, best scores of the season, hole stats, etc. 
+3. Play
+4. Schedule 
+- First show your team, have option to see complete schedule across all teams.
+5. Profile 
+- Have settings for profile picture, email, name, nickname, etc. 
